@@ -1,1 +1,3 @@
-# College-bus-tracker
+COLLEGE BUS TRACKER– Real-Time Campus Transportation Monitoring System
+
+College Bus Tracker is a smart transportation management solution designed to improve the visibility, reliability, and efficiency of campus bus services. The system uses GPS technology to track buses in real time, provide estimated arrival times (ETA) at designated stops, and notify students and staff about delays and arrival updates. It also offers parents better visibility into bus movements and provides transport administrators with tools to manage routes, buses, drivers, and stops. By bringing essential transportation information into one platform, the proposed solution aims to reduce waiting time, improve coordination, and provide a safer, more convenient campus commuting experience.
